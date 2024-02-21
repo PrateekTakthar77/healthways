@@ -1,3 +1,6 @@
+body{
+    background-color: #02619a;
+}
 /* Custom styles for the banner */
 .banner-container {
     position: relative;
